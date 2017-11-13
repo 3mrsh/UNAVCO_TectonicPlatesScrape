@@ -18,9 +18,9 @@ Requests, XLSXWriter, URLlib2, BeautifulSoup
 To run the code, simply:
 1) Download the repository. 
 2) Open Python on your Terminal or favorite Python IDE
-3) Run the following:
+3) Run the following with the path to your tectonicPlates.py file as the only input to the function:
 ```
-execfile('path_to_the_tectonicPlates.py_file')
+execfile('path_to_file')
 ```
 
 ## Notes on customization:
