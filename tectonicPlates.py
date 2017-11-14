@@ -1,13 +1,6 @@
-# execfile('ScrapesWBeautifulSoup/tectonicPlates.py')
-
-def clear():
-	print "\n\n\n\n\n\n"*20
-
-
 import requests, xlsxwriter, urllib2
 import numpy as np
 from bs4 import BeautifulSoup
-
 from datetime import date
 
 
